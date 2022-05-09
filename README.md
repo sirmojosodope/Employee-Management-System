@@ -24,3 +24,5 @@ Contributors: Lamont
 The following is needed to run the test: node index.js
 # Questions 
 If you have any questions about the reportError, open an issue or contact stoverlee29@gmail.com
+
+![Employee Tracker](https://user-images.githubusercontent.com/97686342/167511349-aa16411b-7717-4c2d-8afe-bc1ed369269e.gif)
