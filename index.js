@@ -23,7 +23,7 @@ function mainMenu() {
           "Add Role",
           "View All Departments",
           "Add Department",
-          "Quit"
+          "View All Roles",
         ],
       },
     ])
@@ -40,9 +40,7 @@ function mainMenu() {
         case "View All Employees":
           // viewAllEmployees()
           break;
-          
       }
-      
 
       // This if statement is the same as the switch statement above
       // just written differently...
@@ -64,6 +62,5 @@ function viewAllEmployees() {
     })
     .then(() => mainMenu());
 }
-
 
 // add the other choices to the switch statement (read the readme for this HW)cd
